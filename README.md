@@ -1,2 +1,2 @@
 # ლექციის კოდი და დავალებები
-## giorgi.enuqidze@tsu.ge
+## `giorgi.enuqidze@tsu.ge`
