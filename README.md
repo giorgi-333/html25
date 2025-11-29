@@ -1,4 +1,4 @@
-# ლექციის კოდი და დავალებები
+# საკონტაქტო
 ## `giorgi.enuqidze@tsu.ge`
 
 https://code.visualstudio.com/  
