@@ -1,8 +1,8 @@
-# HTML `<table>` ტეგი
+# HTML `<table>` ტეგი 
 
-| ატრიბუტი | აღწერა | მნიშვნელობა |
+| ტეგები | აღწერა | ატრიბუტები |
 |-----------|-------------|----------------|
-| table | ცხრილი | border (ციფრი), cellpadding (ციფრი), cellspacing (ციფრი), width (ციფრი ან პროცენტი), height (ციფრი ან პროცენტი), align (left, center, right) |
+| table | ცხრილი | border (ციფრი), cellpadding დაშორება (ციფრი), cellspacing (ციფრი), width (ციფრი ან პროცენტი), height (ციფრი ან პროცენტი), align (left, center, right) |
 | tr | ცხრილის სვეტი | align (left, center, right), bgcolor (ფერი) |
 | th | სათაური უჯრა | bgcolor (ფერი), align (left, center, right), valign (top, middle, bottom) |
 | td | მონაცემთა უჯრა | bgcolor (ფერი), align (left, center, right), valign (top, middle, bottom) |    
@@ -10,3 +10,25 @@
 | tbody | ცხრილის სხეული | - |
 | tfoot | ცხრილის ქვედა ნაწილი | - |
 | caption | ცხრილის სათაური | align (top, bottom) |
+
+`<table>` ტეგის მაგალითი:
+
+```html
+<table cellspacing="0" cellpadding="10">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+```
