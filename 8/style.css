@@ -1,0 +1,11 @@
+body {
+    background-color: blueviolet;
+}
+p {
+    background-color: azure;
+    width: 200px;
+    height: 300px;
+}
+u {
+    color: orange;
+}
