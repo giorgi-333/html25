@@ -15,3 +15,10 @@
 | ვარ სრულწოვანი | adult   | არა |
 
 
+
+# დავალება flex-იც
+
+> https://nicepage.com/website-templates/preview/get-insured-2267044?device=desktop
+
+
+
