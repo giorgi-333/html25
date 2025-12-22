@@ -20,5 +20,8 @@
 
 > https://nicepage.com/website-templates/preview/get-insured-2267044?device=desktop
 
+> https://nicepage.com/website-templates/preview/wellness-center-experts-6561457?device=desktop
+
+https://nicepage.com/website-templates/preview/car-wash-gallery-6523309?device=desktop
 
 
