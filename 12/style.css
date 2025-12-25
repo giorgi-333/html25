@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 20px;
+    display: flex;
+     /* justify-content: flex-end; გაიტანს მარჯვნივ კონტენტს */
+    justify-content: space-between;
+}
+
+.colors {
+    display: flex;
+    margin: 20px 0;
+}
+
+.red {
+    flex: 1;
+    height: 200px;
+    background-color: red;
+}
+
+.blue {
+    flex: 1;
+    height: 200px;
+    background-color: blue;
+}
+
+.green {
+    flex: 3;
+    height: 200px;
+    background-color: green;
+}
+
+.circle {
+    margin: 30px;
+    width: 300px;
+    height: 300px;
+    background-color: orangered;
+    border-radius: 50%; /* 50% წრეს ხატავს */
+}
+
+.btns {
+    padding: 40px;
+}
+
+button {
+    margin-right: 50px;
+    padding: 5px 10px;
+}
+
+.btn {
+    background-color: rgb(48, 69, 176);
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 4px; /* ამრგვალებს კუთხეებს */
+    cursor: pointer; /* მაუსს ცვლის */
+    user-select: none; /* თიშავს მონიშვნის საშუალებას */
+}

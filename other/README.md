@@ -1,4 +1,4 @@
-
+<!-- 
 # 2) საკონტატქო ფორმის ინსტურქცია
 
  > მაგალითს ლინკი: https://one.coding-world.com/contactform/
@@ -24,4 +24,13 @@
 
 https://nicepage.com/website-templates/preview/car-wash-gallery-6523309?device=desktop
 
+https://nicepage.com/website-templates/preview/texts-in-cells-6287286?device=desktop  // borders
+
+https://nicepage.com/website-templates/preview/texts-and-buttons-in-colored-cells-2866456?device=desktop // b  radius
+
+https://nicepage.com/website-templates/preview/learn-anywhere-6070407?device=desktop // map - border
+
+
+
+-->
 
