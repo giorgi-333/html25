@@ -1,20 +1,4 @@
 <!-- 
-# 2) საკონტატქო ფორმის ინსტურქცია
-
- > მაგალითს ლინკი: https://one.coding-world.com/contactform/
-
- - ფორმის გასაგზავნი მისამართი: `https://one.coding-world.com/contactform/submit.php`
- - მეთოდი: `POST`
-
- ### საკითხები ( ყველა ველის შევსება/არჩევა სავალდებულოა )
-| საკითხი | name | სავალდებულო |
-|---------|------| ---- |
-| სახელი | name | კი |
-| მეილი   | email  | კი | 
-| შეტყობინება | message  | კი | 
-| ვარ სრულწოვანი | adult   | არა |
-
-
 
 # დავალება flex-იც
 
@@ -34,3 +18,6 @@ https://nicepage.com/website-templates/preview/our-features-and-services-488288?
 <!-- მომავალში 
 
 https://nicepage.com/website-templates/preview/building-a-brand-identity-402421?device=desktop 3-3ზე გრიდით/ფლექსით -->
+
+
+<!-- https://nicepage.com/website-templates?blocks=true&sorter=Popular -->
