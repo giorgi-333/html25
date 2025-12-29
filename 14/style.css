@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#oneSite {
+    margin: 10px;
+    width: 50%;
+    height: 50vh;
+}
+
+#youtVideo {
+    display: block;
+    margin: 40px;
+    width: 500px;
+    height: 300px;
+}
+
+#myMap {
+    width: 100%;
+    height: 500px;
+}

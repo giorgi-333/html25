@@ -12,6 +12,10 @@ https://nicepage.com/website-templates/preview/learn-anywhere-6070407?device=des
 https://nicepage.com/website-templates/preview/hr-features-6521334?device=desktop //4 features -  icons in circles colors
 
 https://nicepage.com/website-templates/preview/our-features-and-services-488288?device=desktop // features cards
+
+https://nicepage.com/website-templates/preview/contact-us-block-with-map-3081008?device=desktop // კონტაქტი რუკით 3 სვეტი
+
+https://nicepage.com/website-templates/preview/star-wars-story-42393?device=desktop // ვიდეოსთან - მარტივი
 -->
 
 
