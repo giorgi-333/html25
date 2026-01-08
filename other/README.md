@@ -25,3 +25,5 @@ https://nicepage.com/website-templates/preview/building-a-brand-identity-402421?
 
 
 <!-- https://nicepage.com/website-templates?blocks=true&sorter=Popular -->
+
+<!-- https://nicepage.com/website-templates/preview/smart-life-weekly-6546567?device=desktop -->
