@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cont {
+    display: flex;
+    flex-direction: column; /* ერთმანეთის ქვემოთ ათავსებს ელემენტებს*/
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 6px;
+}
+
+.cont2 {
+    background-color: red;
+}

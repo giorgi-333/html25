@@ -1,0 +1,24 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap'); */
+
+
+@font-face {
+    font-family: Gravitas;
+    src: url(./fonts/GravitasOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: ninoMtavruli;
+    src: url(./fonts/bpg-nino-mtavruli-webfont.ttf);
+}
+
+h1 {
+    font-family: ninoMtavruli;
+    font-size: 40px;
+}
+
+p {
+    font-family: "Gravitas", monospace, sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    line-height: 40px;
+}
