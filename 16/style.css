@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    width: 100%;
+    font-size: 28px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+    /*  */
+    /* relative */
+    /* absolute */
+    /* fixed */
+    position: sticky;
+    top: 0;
+    left: 0;
+    /* margin-top: 100px; */
+}
+
+header span {
+    color: red;
+    font-family: monospace;
+}
+
+header div a {
+    color: black;
+}
+
+.cont {
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.cont2 {
+    background-color: blue;
+}
+
+.box {
+    /* box-sizing: border-box; */
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 20px;
+}
