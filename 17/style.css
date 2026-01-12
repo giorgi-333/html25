@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    width: 100%;
+    font-size: 28px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #d2dede;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+header span {
+    color: red;
+}
+
+header div a {
+    color: green;
+    text-decoration: none;
+}
+
+.cont {
+    height: 100vh;
+}
+
+.cont2 {
+    background-color: cadetblue;
+}
+
+.cont .box {
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    padding: 100px;
+    /* relative absolute */
+    /* position: fixed; */
+    /* top right bottom left */
+    /* top: 30px;
+    right: 30px; */
+}
+
+.red-bg {
+    background-color: blue !important;
+}
