@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    margin: 100px;
+    width: 200px;
+    height: 200px;
+    /* border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: blue; */
+    /* bottom, top, left, right */
+    
+    border: 8px solid green;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    background-color: rgb(183, 183, 230);
+}
+.red {
+    margin: 100px;
+    color: rgb(57, 17, 234);
+    font-size: 30px;
+}
+
+.box.red {
+    background-color: red;
+}
+
+.list {
+    margin-left: 100px;
+    font-size: 30px;
+    width: 50px;
+}
+
+.list > div {
+    border: 1px solid black;
+}
