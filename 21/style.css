@@ -42,3 +42,23 @@
         background-color: red;
     }
 } */
+
+
+.cont {
+    width: calc(100% - 80px);
+    margin: 0 auto;
+    background-color: green;
+    padding: 40px;
+    font-size: 40px;
+    /* overflow: scroll; */
+    overflow: hidden;
+    /* display: none; */
+    /* visibility: hidden; */
+    /* visibility: visible; */
+    opacity: 0.5;
+
+}
+
+.cont p {
+    transform: translateY(100px);
+}
