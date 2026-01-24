@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue;
+    animation-name: ferebi;
+    animation-duration: 6s;
+    animation-iteration-count: 2;
+    /* animation-iteration-count: infinite; მუდმივად მეორდება */
+    /* animation-delay: 4s; */
+    /* animation-direction: reverse; */
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-out;
+}
+
+@keyframes ferebi {
+    from {
+        background-color: green;
+    }
+    to {
+        background-color: red;
+    }
+}
+
+/* @keyframes ferebi {
+    0% {
+        background-color: green;
+    }
+    35% {
+        background-color: blue;
+    }
+    75% {
+        background-color: orange;
+    }
+    100% {
+        background-color: red;
+    }
+} */
