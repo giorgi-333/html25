@@ -29,3 +29,6 @@ https://nicepage.com/website-templates/preview/building-a-brand-identity-402421?
 <!-- https://nicepage.com/website-templates/preview/smart-life-weekly-6546567?device=desktop -->
 
 <!-- https://nicepage.com/website-templates/preview/family-camping-adventure-4545389?device=desktop მრგვალები გვერდებით-->
+
+
+<!-- https://nicepage.com/website-templates/preview/increase-sales-4333622?device=desktop გრიდი -->
