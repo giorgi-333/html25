@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.pirveli, .meore {
+    margin: 40px;
+    border: 1px solid rebeccapurple;
+}
+
+.pirveli {
+    /* list-style-type: circle; */
+    /* list-style-type: disc; */
+    /* list-style-type: square; */
+    list-style-position: inside;
+    list-style-image: url('image/question.png');
+    animation-name: ferebi;
+    animation-duration: 8s;
+    /* animation-delay: 4s; */
+    animation-fill-mode: forwards;
+    /* animation-iteration-count: 3; */
+}
+
+.meore {
+    /* list-style-type: upper-roman; */
+     /* list-style-type: lower-roman; */
+     list-style-type: upper-alpha;
+}
+
+@keyframes ferebi {
+    from {
+        background-color: aqua;
+        transform: translate(300px);
+    } to {
+        background-color: red;
+        transform: translate(0);
+    }
+}
+
+/* @keyframes ferebi {
+    0% {
+        background-color: aqua;
+    } 
+    50% {
+        background-color: red;
+    }
+    70% {
+        background-color: rgb(6, 196, 6);
+    }
+} */
