@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:active {
+    color: black;
+}
+
+a:hover {
+    color: green;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px rgb(102, 34, 239);
+}
+
+.box {
+    width: 100px;
+    height:40px;
+    /* border: 1px solid black; */
+    margin: 20px;
+    box-shadow: 2px 2px 8px rgb(63, 67, 63);
+    border-radius: 4px;
+
+    background: linear-gradient(45deg, rgb(25, 53, 194) 0%, rgba(252, 70, 107, 1) 100%);
+}
