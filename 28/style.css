@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cont {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 30px 50px 50px;
+    gap: 5px;
+    grid-template-areas: 
+        "pirveli pirveli"
+        "mesame meotxe"
+        "mesame meeqvse"
+        "mexute mexute"
+    ;
+}
+
+@media (max-width: 800px) {
+    .cont {
+        grid-template-columns: 1fr;
+        grid-template-areas: none;
+    }
+    .box {
+        grid-area: unset !important;
+    }
+} 
+
+.box1 {
+    grid-area: pirveli;
+}
+
+.box2 {
+    grid-area: meore;
+}
+
+.box3 {
+    grid-area: mesame;
+}
+.box4 {
+    grid-area: meotxe;
+}
+
+.box5 {
+    grid-area: mexute;
+}
+.box6 {
+    grid-area: meeqvse;
+}
+
+
+.box {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
