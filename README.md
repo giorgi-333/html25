@@ -1,3 +1,6 @@
+# დადასტურების:
+# https://www.figma.com/design/8B9CeEYogh6aykeip2fUq3/Dadastureba?node-id=241-2&p=f&t=gIQskGwtFX0gyl8g-0
+
 # საკონტაქტო
 ## `giorgi.enuqidze@tsu.ge`
 
